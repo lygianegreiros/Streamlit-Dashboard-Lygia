@@ -79,7 +79,7 @@ O app ficará disponível em: [http://localhost:8501](http://localhost:8501)
 
 ## 📊 Exemplo de visualização
 
-![Exemplo Dashboard](https://streamlit.io/images/brand/streamlit-mark-color.png)
+<img width="1326" height="798" alt="image" src="https://github.com/user-attachments/assets/1f2c0fdf-9013-4e38-b850-eb1263de700f" />
 
 ---
 
