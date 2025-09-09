@@ -68,10 +68,12 @@ O app ficará disponível em: [http://localhost:8501](http://localhost:8501)
 
 ## 🔗 Fonte dos dados
 
-* Canal público do **ThingSpeak**:
-  [https://api.thingspeak.com/channels/2943258/feeds.json](https://api.thingspeak.com/channels/2943258/feeds.json)
-* Campos:
+* Canal público do **ThingSpeak**: Não se esqueça de remover esses dados quando for subir no GitHub.
+substitua por uma API pública no ThingSpeak.
 
+
+
+* Campos:
   * `Umidade (%)`
   * `Temperatura (°C)`
 
@@ -79,9 +81,10 @@ O app ficará disponível em: [http://localhost:8501](http://localhost:8501)
 
 ## 📊 Exemplo de visualização
 
-![Exemplo Dashboard](https://streamlit.io/images/brand/streamlit-mark-color.png)
+<img width="1326" height="798" alt="Captura de tela 2025-09-09 195035" src="https://github.com/user-attachments/assets/f7505beb-8ac2-428d-a3bd-ee3c59a7c21f" />
 
----
+
+
 
 ## 🤝 Contribuição
 
